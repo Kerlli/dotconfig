@@ -1,0 +1,16 @@
+import = ["~/.config/alacritty/themes/themes/omni.toml"]
+
+[font]
+normal = { family = "agave Nerd Font" }
+size = 14.0
+
+[mouse]
+hide_when_typing = true
+
+[window]
+blur = true
+dynamic_padding = true
+opacity = 0.9
+option_as_alt = "OnlyLeft"
+padding = { x = 16, y = 32 }
+decorations = "Transparent"
